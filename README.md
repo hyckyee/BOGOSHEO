@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+* ![12400](https://img.shields.io/badge/Intel-Core_i5_12400-0071C5?style=for-the-badge&logo=intel&logoColor=white
+)
 ## 서론
 컴퓨터를 이용한 정보 처리가 점차 늘어나고 있고, 동시에 과거의 여러가지 기록물을 디지털화 하는 과정에서 효율성을 추구하기 위해 OCR 등의 방식을 이용하고 있다.
 ## 연구 동기 및 목적
