@@ -3497,3 +3497,4 @@ UX/UI 디자인에 대한 연구를 하여, 추후에 보완하고자 하였다.
 박선우 (모두의연구소)
 * 딥러닝을 위한 인공신경망-오창석
 * KAIST 김진형 교수에게 듣는 AI 최강의 수업-김진형
+* IBM-tensorflow-hangul-recognition
